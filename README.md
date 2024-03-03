@@ -22,4 +22,4 @@
  <h3 align="left">Tools</h3> 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a><a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
 </p>
-<p align="left">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=git-hemanth&show_icons=true&locale=en" alt="git-hemanth" /></p>
+<!--<p align="left">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=git-hemanth&show_icons=true&locale=en" alt="git-hemanth" /></p>-->
